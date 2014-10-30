@@ -5,6 +5,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>첫번째프로젝트</h1>
+<h1>관리페이지완성</h1>
 </body>
 </html>
